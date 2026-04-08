@@ -1,4 +1,5 @@
 {
-    "url": "https://github.com/CruxML/bazel_esp32/releases/tag/v0.0.2",
-    "integrity": "sha256-ww5qKhwJQUlCXMywIlAhXcKPoXb5g8tIIn7xoVXx7WI="
+    "integrity": "sha256:28fa4c0de5677ac0751fb29468571f0cfa6a136d7315ebb4ee1e14a4ef457f89",
+    "strip_prefix": "bazel_esp32-0.0.2",
+    "url": "https://github.com/CruxML/bazel_esp32/releases/download/v0.0.2/bazel_esp32-0.0.2.tar.gz"
 }
